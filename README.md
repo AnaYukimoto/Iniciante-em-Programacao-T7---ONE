@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-    <img src="./assets/demonstrativeJS.png" width="400" />
+    <img src="./assets/DemonstrativeJS.png" width="400" />
 </p>
 
 
